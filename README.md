@@ -14,11 +14,11 @@ _There are no known bugs at this time._
 
 ## Support and contact details
 
-_If you have any issues, questions, comments, or scathing reviews please email us at matteichsteadt@gmail.com.
+_If you have any issues, questions, comments, or scathing reviews please email us at matteichsteadt@gmail.com._
 
 ## Technologies Used
 
-_This webpage was made using HTML, CSS, Javascript, and JQuery.
+_This webpage was made using HTML, CSS, Javascript, and JQuery._
 
 ### License
 
